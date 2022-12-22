@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/spanidea/projects/yogaa_app/myapp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
+            "map": [
+                {
+                    "source": "/home/spanidea/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/c9b443c17b7d77d4791a85119bf1fbe6/appcompat-v7-25.0.0/res/values-v12/values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        }
+    ]
+}

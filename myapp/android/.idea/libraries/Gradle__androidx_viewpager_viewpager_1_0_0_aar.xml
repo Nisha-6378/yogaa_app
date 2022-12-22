@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.viewpager:viewpager:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/res" />
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/361017c8249038f67142c160fa39ee2e/viewpager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/361017c8249038f67142c160fa39ee2e/viewpager-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/0f1468cb6c6bf95b0f487d955a680bfc/jetified-play-services-tasks-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/0f1468cb6c6bf95b0f487d955a680bfc/jetified-play-services-tasks-17.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/f334e831d4c9b3d3f10cb71238e21f2a/play-services-tasks-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/f334e831d4c9b3d3f10cb71238e21f2a/play-services-tasks-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

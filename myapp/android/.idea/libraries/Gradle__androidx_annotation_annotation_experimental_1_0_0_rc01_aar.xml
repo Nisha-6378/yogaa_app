@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.annotation:annotation-experimental:1.0.0-rc01@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a05dfcc3aa4277a5e6ff3acfe3c85fdc/jetified-annotation-experimental-1.0.0-rc01/res" />
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/aef6450d8602fd0c4aafec567ce47308/jetified-annotation-experimental-1.0.0-rc01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/aef6450d8602fd0c4aafec567ce47308/jetified-annotation-experimental-1.0.0-rc01/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/e5905dcf4cfcd13f6bb75bd1d27a3352/annotation-experimental-1.0.0-rc01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/e5905dcf4cfcd13f6bb75bd1d27a3352/annotation-experimental-1.0.0-rc01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/modules-2/files-2.1/androidx.annotation/annotation-experimental/1.0.0-rc01/2408f6cb8f31ffabdd88e1365f82914c251e44dc/annotation-experimental-1.0.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

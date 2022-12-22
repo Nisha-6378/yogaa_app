@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-vision-face-contour-internal:16.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eaf19abbde1a6981fa8c4f8756e26be5/jetified-play-services-vision-face-contour-internal-16.0.3/res" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/27aefeae375a84a68314eaaa1989a6e1/jetified-play-services-vision-face-contour-internal-16.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/27aefeae375a84a68314eaaa1989a6e1/jetified-play-services-vision-face-contour-internal-16.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/ff4f4a86e3114f2f5e5b7b59f0349dc5/play-services-vision-face-contour-internal-16.0.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/ff4f4a86e3114f2f5e5b7b59f0349dc5/play-services-vision-face-contour-internal-16.0.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/modules-2/files-2.1/com.google.android.gms/play-services-vision-face-contour-internal/16.0.3/c9cfe329caed53df2d630f13f112ba6c9c8e3a81/play-services-vision-face-contour-internal-16.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

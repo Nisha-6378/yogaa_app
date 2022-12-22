@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/spanidea/projects/yogaa_app/myapp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/spanidea/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/2f92b9b7fa7d26b98742c9b2a7b8abdc/appcompat-1.2.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    },
+                    "to": {
+                        "startLines": "2,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,189,260",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,255,323"
+                    }
+                },
+                {
+                    "source": "/home/spanidea/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/c9b443c17b7d77d4791a85119bf1fbe6/appcompat-v7-25.0.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "125",
+                        "endColumns": "63",
+                        "endOffsets": "184"
+                    }
+                }
+            ]
+        }
+    ]
+}

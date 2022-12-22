@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-mlkit-text-recognition:16.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e8bdc13bb8cf76c9d349a916d4507348/jetified-play-services-mlkit-text-recognition-16.1.1/res" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/808a4016cdf46b2922a0808f1c4b2a9c/jetified-play-services-mlkit-text-recognition-16.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/808a4016cdf46b2922a0808f1c4b2a9c/jetified-play-services-mlkit-text-recognition-16.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/c596dc77fa9831d744ae54089c8b46f1/play-services-mlkit-text-recognition-16.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/c596dc77fa9831d744ae54089c8b46f1/play-services-mlkit-text-recognition-16.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-text-recognition/16.1.1/eb672263e1a6c5a636a479f94bce5a5e1a12f7b5/play-services-mlkit-text-recognition-16.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
